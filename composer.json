@@ -1,5 +1,5 @@
 {
-    "name": "symfony-cmf/admin-bundle",
+    "name": "sycms/sylius-admin-bridge-bundle",
     "description": "Admin bundle based on Sylius Resources",
     "license": "MIT",
     "authors": [

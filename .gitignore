@@ -3,3 +3,5 @@ composer.lock
 phpunit.xml
 composer.phar
 example/app/cache
+example/node_modules
+example/web/assets
